@@ -1,100 +1,147 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20there,%20I'm%20Kim%20Khanh!&fontSize=70&fontAlignY=35&desc=Software%20Engineer%20%7C%20UI%2FUX%20Enthusiast&descAlignY=55&descSize=25" />
+
+<!-- HEADER BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0,1a1b26,13,7aa2f7&height=220&section=header&text=Kim%20Khanh&fontSize=80&fontColor=c0caf5&fontAlignY=45&desc=Backend%20Engineer%20%7C%20FullStack%20Builder&descAlignY=65&descSize=22&descColor=7aa2f7&animation=fadeIn&stroke=7aa2f7&strokeWidth=1" />
+
 </div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Full-Stack+Web+Developer;UI%2FUX+Design+Enthusiast;AI+%26+Computer+Vision+Explorer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=1200&color=7AA2F7&center=true&vCenter=true&width=700&lines=Backend+Engineer+%7C+Java+%2F+Spring+Boot+%2F+Node.js;Microservices+%7C+REST+API+%7C+System+Design;PostgreSQL+%7C+Redis+%7C+MongoDB;FullStack+%3A+React+%2F+Next.js+when+needed;Clean+Code+%E2%86%92+Scalable+Systems+%E2%86%92+Ship+It" alt="Typing SVG" />
   </a>
 </div>
+
+<br/>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Focus-Backend%20%26%20System%20Design-7aa2f7?style=for-the-badge&logo=server&logoColor=white&labelColor=1a1b26">
+  <img src="https://img.shields.io/badge/Mindset-Build%20%26%20Ship-9ece6a?style=for-the-badge&logo=rocket&logoColor=white&labelColor=1a1b26">
+  <img src="https://img.shields.io/badge/Status-Open%20To%20Collaborate-f7768e?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b26">
+</div>
+
+---
+
+## 🧠 whoami
+
+```bash
+$ curl -s https://api.kimkhanh.dev/about | jq
+```
+
+```json
+{
+  "name": "Kim Khanh",
+  "role": "Software Engineering Student — 3rd Year",
+  "specialization": "Backend Engineering + FullStack Development",
+  "currently_building": [
+    "REST/GraphQL APIs with Spring Boot microservices",
+    "Real-time AI Object Detection pipelines (OpenCV)",
+    "Cloud-native architectures on AWS & Cloudflare"
+  ],
+  "stack_preference": {
+    "primary": "Java / Spring Boot",
+    "databases": ["PostgreSQL", "Redis", "MongoDB"],
+    "fullstack_when_needed": "React / Next.js + Tailwind"
+  },
+  "open_to": "Open-source · SaaS platforms · AI-driven backend tools",
+  "philosophy": "Design the system before writing the code."
+}
+```
+
+---
+
+## ⚙️ Tech Stack
+
+### 🔩 Backend — My Home Ground
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,python,graphql,kafka&theme=dark" />
+</div>
+
+### 🗄️ Databases & Caching
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,prisma&theme=dark" />
+</div>
+
+### 🌐 Frontend — When FullStack Calls
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,vite,figma&theme=dark" />
+</div>
+
+### 🚀 DevOps, Cloud & AI Tooling
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,linux,bash,opencv,cloudflare,postman&theme=dark" />
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+### 🏆 Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=capkimkhanh2k5&theme=tokyonight&margin-w=12&margin-h=12&column=7&no-frame=true&no-bg=true" />
+</div>
+
+<br/>
+
+### 📈 Stats & Streak
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=capkimkhanh2k5&show_icons=true&theme=tokyonight&hide_border=true&title_color=7aa2f7&icon_color=7aa2f7&text_color=c0caf5&bg_color=1a1b26&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=capkimkhanh2k5&theme=tokyonight&hide_border=true&ring=7aa2f7&fire=f7768e&currStreakLabel=7aa2f7&background=1a1b26" width="48%" />
+</div>
+
+<br/>
+
+### 💬 Language Distribution
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=capkimkhanh2k5&layout=donut&theme=tokyonight&hide_border=true&title_color=7aa2f7&text_color=c0caf5&bg_color=1a1b26&langs_count=8" width="42%" />
+</div>
+
+<br/>
+
+### 📉 Contribution Graph
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=capkimkhanh2k5&theme=tokyo-night&bg_color=1a1b26&color=7aa2f7&line=7aa2f7&point=f7768e&hide_border=true&area=true&area_color=7aa2f722" width="100%" />
+</div>
+
+---
+
+## 🧩 Featured Projects
+
+<div align="center">
+
+| Project | Stack | Description |
+|---|---|---|
+| 🔧 **[API Gateway Service](#)** | Spring Boot · Redis · JWT | Centralized auth & rate-limiting microservice |
+| 🎯 **[AI Object Detection Pipeline](#)** | Python · OpenCV · FastAPI | Real-time detection integrated with web frontend |
+| 🛒 **[E-Commerce Platform](#)** | Next.js · Spring Boot · PostgreSQL | FullStack platform with microservices backend |
+| 🌐 **[Personal Dev API](#)** | Node.js · Express · MongoDB | RESTful personal API with live metrics |
+
+</div>
+
+---
+
+## 📡 Connect
 
 <div align="center">
   <a href="https://github.com/capkimkhanh2k5">
-    <img alt="GitHub Followers" src="https://img.shields.io/github/followers/capkimkhanh2k5?style=for-the-badge&logo=github&color=1a1b26&logoColor=7aa2f7">
+    <img src="https://img.shields.io/badge/GitHub-capkimkhanh2k5-1a1b26?style=for-the-badge&logo=github&logoColor=c0caf5&color=1a1b26&labelColor=7aa2f7">
+  </a>
+  &nbsp;
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-1a1b26?style=for-the-badge&logo=gmail&logoColor=white&color=1a1b26&labelColor=f7768e">
   </a>
 </div>
 
-<br/>
-
-## 👨‍💻 About Me
-
-I am a passionate **Software Engineering Student (3rd Year)** with a strong focus on building scalable web architectures, crafting intuitive user interfaces, and exploring AI/Computer Vision integrations. I adopt a **"UI/UX Pro Max"** mindset to ensure that every pixel serves a purpose, delivering elegant, responsive, and highly accessible digital experiences.
-
-- 🔭 **Currently Building:** Advanced web platforms utilizing **Next.js**, **Spring Boot**, and real-time **AI Object Detection** pipelines.
-- 🎨 **Design Philosophy:** Minimalist, user-centric, and performance-driven. I prefer clean SVGs over text emojis, stable layout transitions, and high-contrast dark modes for professional interfaces.
-- 🌱 **Currently Deep-Diving:** Cloud Architectures (AWS/Cloudflare), System Design, and Machine Learning algorithms.
-- 👯 **Open to collaborate on:** Open-source projects, modern SaaS platforms, and innovative AI-driven developer tools.
-- 💬 **Ask me about:** Java/Spring Boot microservices, React/Next.js frontend optimization, UI/UX systems, and PostgreSQL.
-
----
-
-## �️ Core Competencies & Tech Stack
-
-Instead of generic text, here is a visual representation of my technology stack, categorized by domain.
-
-<div align="center">
-  <h3><strong>Frontend & UI/UX Architecture</strong></h3>
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,css,html,figma,vite&theme=dark" />
-  
-  <br/><br/>
-  
-  <h3><strong>Backend Systems & APIs</strong></h3>
-  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,python,graphql&theme=dark" />
-  
-  <br/><br/>
-  
-  <h3><strong>Databases & ORM Management</strong></h3>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,prisma,redis&theme=dark" />
-  
-  <br/><br/>
-  
-  <h3><strong>DevOps, AI & Tooling</strong></h3>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,postman,linux,bash,opencv,cloudflare&theme=dark" />
-</div>
-
----
-
-## 📊 Comprehensive GitHub Analytics
-
-A data-driven overview of my coding activity and contributions. Tracking these metrics helps me maintain consistency and measure growth over time.
-
-### 🏆 Profile Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=capkimkhanh2k5&theme=tokyonight&margin-w=15&margin-h=15&column=7&no-frame=true&no-bg=true" />
-</div>
-
-<br/>
-
-### � Core Metrics & Coding Streak
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=capkimkhanh2k5&show_icons=true&theme=tokyonight&hide_border=true&title_color=7aa2f7&icon_color=7aa2f7&text_color=c0caf5&bg_color=1a1b26" alt="Kim Khanh's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=capkimkhanh2k5&theme=tokyonight&hide_border=true&title_color=7aa2f7&sideNums=c0caf5&sideLabels=c0caf5&ring=7aa2f7&fire=7aa2f7&currStreakLabel=7aa2f7&currStreakNum=c0caf5&background=1a1b26" alt="Kim Khanh's GitHub Streak" width="48%" />
-</div>
-
-<br/>
-
-### 💻 Language Distribution 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=capkimkhanh2k5&layout=compact&theme=tokyonight&hide_border=true&title_color=7aa2f7&text_color=c0caf5&bg_color=1a1b26" alt="Top Languages" width="48%" />
-  <!-- Added Wakatime setup. It will display if you have Wakatime integrated with your Github account! -->
-  <a href="https://github.com/capkimkhanh2k5">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=capkimkhanh2k5&layout=compact&theme=tokyonight&hide_border=true&title_color=7aa2f7&text_color=c0caf5&bg_color=1a1b26" alt="Development Time Metrics" width="48%" onerror="this.style.display='none'"/>
-  </a>
-</div>
-
-<br/>
-
-### 📉 Contribution Activity Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=capkimkhanh2k5&theme=tokyo-night&bg_color=1a1b26&color=7aa2f7&line=7aa2f7&point=c0caf5&hide_border=true" alt="Contribution Graph" width="100%" />
-</div>
-
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
-</div>
 
-<div align="center">
-  <i>"Any fool can write code that a computer can understand. Good programmers write code that humans can understand." <br> – Martin Fowler</i>
+```
+╔══════════════════════════════════════════════════════════════╗
+║   "First, solve the problem. Then, write the code."          ║
+║                                          — John Johnson      ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0,7aa2f7,100,1a1b26&height=100&section=footer&animation=fadeIn" />
+
 </div>
