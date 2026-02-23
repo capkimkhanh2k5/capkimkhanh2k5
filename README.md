@@ -2,12 +2,12 @@
 <!-- 🎨 HEADER SECTION -->
 <!-- ========================================== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,50:bb9af7,100:7dcfff&height=280&section=header&text=C%C3%A1p%20Kim%20Kh%C3%A1nh&fontSize=75&fontAlignY=30&fontColor=ffffff&desc=Backend%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20AI%20%26%20IoT%20Enthusiast&descAlignY=52&descSize=22&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:7aa2f7,50:bb9af7,100:7dcfff&amp;height=280&amp;section=header&amp;text=C%C3%A1p%20Kim%20Kh%C3%A1nh&amp;fontSize=75&amp;fontAlignY=30&amp;fontColor=ffffff&amp;desc=Backend%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20AI%20%26amp;%20IoT%20Enthusiast&amp;descAlignY=52&amp;descSize=22&amp;animation=fadeIn" />
 </div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=80&lines=%F0%9F%8E%93+Software+Engineering+%40+DUT+%C4%90%C3%A0+N%E1%BA%B5ng;%E2%9A%99%EF%B8%8F+Spring+Boot+%7C+Django+%7C+Next.js+%7C+Flutter+%7C+IoT" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=700&amp;size=24&amp;duration=3000&amp;pause=1000&amp;color=7AA2F7&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;repeat=true&amp;width=750&amp;height=80&amp;lines=%F0%9F%8E%93+Software+Engineering+%40+DUT+%C4%90%C3%A0+N%E1%BA%B5ng;%E2%9A%99%EF%B8%8F+Spring+Boot+%7C+Django+%7C+Next.js+%7C+Flutter+%7C+IoT" alt="Typing SVG" />
   </a>
 </div>
 
@@ -73,16 +73,16 @@ I'm **Cáp Kim Khánh** — a 3rd-year **Software Engineering** student at **Da 
 
 | Language | Level | Used In |
 |:---:|:---:|:---|
-| <img src="https://skillicons.dev/icons?i=java&theme=dark" width="40"/> **Java** | ⭐⭐⭐⭐⭐ | Spring Boot, JSP/Servlet, Network Programming |
-| <img src="https://skillicons.dev/icons?i=python&theme=dark" width="40"/> **Python** | ⭐⭐⭐⭐⭐ | Django, AI/ML, Data Science, Signal Processing |
-| <img src="https://skillicons.dev/icons?i=ts&theme=dark" width="40"/> **TypeScript** | ⭐⭐⭐⭐ | Next.js, React, Portfolio |
-| <img src="https://skillicons.dev/icons?i=js&theme=dark" width="40"/> **JavaScript** | ⭐⭐⭐⭐ | Frontend, Node.js, Full-stack apps |
-| <img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="40"/> **C++** | ⭐⭐⭐⭐ | Arduino/ESP32, Algorithms, Microcontrollers |
-| <img src="https://skillicons.dev/icons?i=c&theme=dark" width="40"/> **C** | ⭐⭐⭐ | Embedded Systems, IoT firmware |
-| <img src="https://skillicons.dev/icons?i=dart&theme=dark" width="40"/> **Dart** | ⭐⭐⭐ | Flutter mobile apps |
-| <img src="https://skillicons.dev/icons?i=kotlin&theme=dark" width="40"/> **Kotlin** | ⭐⭐ | Android native modules |
-| <img src="https://skillicons.dev/icons?i=swift&theme=dark" width="40"/> **Swift** | ⭐⭐ | iOS native modules |
-| <img src="https://skillicons.dev/icons?i=r&theme=dark" width="40"/> **R** | ⭐⭐ | Data Science, Statistical Analysis |
+| <img src="https://skillicons.dev/icons?i=java&amp;theme=dark" width="40"/> **Java** | ⭐⭐⭐⭐⭐ | Spring Boot, JSP/Servlet, Network Programming |
+| <img src="https://skillicons.dev/icons?i=python&amp;theme=dark" width="40"/> **Python** | ⭐⭐⭐⭐⭐ | Django, AI/ML, Data Science, Signal Processing |
+| <img src="https://skillicons.dev/icons?i=ts&amp;theme=dark" width="40"/> **TypeScript** | ⭐⭐⭐⭐ | Next.js, React, Portfolio |
+| <img src="https://skillicons.dev/icons?i=js&amp;theme=dark" width="40"/> **JavaScript** | ⭐⭐⭐⭐ | Frontend, Node.js, Full-stack apps |
+| <img src="https://skillicons.dev/icons?i=cpp&amp;theme=dark" width="40"/> **C++** | ⭐⭐⭐⭐ | Arduino/ESP32, Algorithms, Microcontrollers |
+| <img src="https://skillicons.dev/icons?i=c&amp;theme=dark" width="40"/> **C** | ⭐⭐⭐ | Embedded Systems, IoT firmware |
+| <img src="https://skillicons.dev/icons?i=dart&amp;theme=dark" width="40"/> **Dart** | ⭐⭐⭐ | Flutter mobile apps |
+| <img src="https://skillicons.dev/icons?i=kotlin&amp;theme=dark" width="40"/> **Kotlin** | ⭐⭐ | Android native modules |
+| <img src="https://skillicons.dev/icons?i=swift&amp;theme=dark" width="40"/> **Swift** | ⭐⭐ | iOS native modules |
+| <img src="https://skillicons.dev/icons?i=r&amp;theme=dark" width="40"/> **R** | ⭐⭐ | Data Science, Statistical Analysis |
 
 </div>
 
@@ -90,7 +90,7 @@ I'm **Cáp Kim Khánh** — a 3rd-year **Software Engineering** student at **Da 
 
 ### ⚙️ Backend Frameworks & Libraries
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=spring,django,nodejs,express&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=spring,django,nodejs,express&amp;theme=dark" />
 </div>
 
 <div align="center">
@@ -108,7 +108,7 @@ I'm **Cáp Kim Khánh** — a 3rd-year **Software Engineering** student at **Da 
 
 ### 🎨 Frontend & UI Frameworks
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,sass,html,css&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,sass,html,css&amp;theme=dark" />
 </div>
 
 <div align="center">
@@ -130,7 +130,7 @@ I'm **Cáp Kim Khánh** — a 3rd-year **Software Engineering** student at **Da 
 
 ### 📱 Mobile Development  
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,swift&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,swift&amp;theme=dark" />
 </div>
 
 <div align="center">
@@ -147,7 +147,7 @@ I'm **Cáp Kim Khánh** — a 3rd-year **Software Engineering** student at **Da 
 
 ### 🗄️ Databases & Caching
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,sqlite,firebase&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,sqlite,firebase&amp;theme=dark" />
 </div>
 
 <div align="center">
@@ -166,7 +166,7 @@ I'm **Cáp Kim Khánh** — a 3rd-year **Software Engineering** student at **Da 
 
 ### 🤖 AI / Machine Learning & Data Science
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,opencv,tensorflow&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,opencv,tensorflow&amp;theme=dark" />
 </div>
 
 <div align="center">
@@ -187,7 +187,7 @@ I'm **Cáp Kim Khánh** — a 3rd-year **Software Engineering** student at **Da 
 
 ### 🔌 IoT & Embedded Systems
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=arduino,cpp,c&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=arduino,cpp,c&amp;theme=dark" />
 </div>
 
 <div align="center">
@@ -205,7 +205,7 @@ I'm **Cáp Kim Khánh** — a 3rd-year **Software Engineering** student at **Da 
 
 ### 🔧 DevOps, Tools & Cloud
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=docker,git,github,postman,linux,bash,maven,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=docker,git,github,postman,linux,bash,maven,vscode&amp;theme=dark" />
 </div>
 
 <div align="center">
@@ -375,29 +375,29 @@ I'm **Cáp Kim Khánh** — a 3rd-year **Software Engineering** student at **Da 
 
 ### 🏆 Profile Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=capkimkhanh2k5&theme=tokyonight&margin-w=15&margin-h=15&column=7&no-frame=true&no-bg=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=capkimkhanh2k5&amp;theme=tokyonight&amp;margin-w=15&amp;margin-h=15&amp;column=7&amp;no-frame=true&amp;no-bg=true" />
 </div>
 
 <br/>
 
 ### 📈 Stats & Streak
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=capkimkhanh2k5&show_icons=true&theme=tokyonight&hide_border=true&title_color=7aa2f7&icon_color=7aa2f7&text_color=c0caf5&bg_color=1a1b26&count_private=true&include_all_commits=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=capkimkhanh2k5&theme=tokyonight&hide_border=true&ring=7aa2f7&fire=bb9af7&currStreakLabel=7aa2f7&currStreakNum=c0caf5&sideNums=c0caf5&sideLabels=c0caf5&background=1a1b26" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=capkimkhanh2k5&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;title_color=7aa2f7&amp;icon_color=7aa2f7&amp;text_color=c0caf5&amp;bg_color=1a1b26&amp;count_private=true&amp;include_all_commits=true" alt="GitHub Stats" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=capkimkhanh2k5&amp;theme=tokyonight&amp;hide_border=true&amp;ring=7aa2f7&amp;fire=bb9af7&amp;currStreakLabel=7aa2f7&amp;currStreakNum=c0caf5&amp;sideNums=c0caf5&amp;sideLabels=c0caf5&amp;background=1a1b26" alt="GitHub Streak" width="48%" />
 </div>
 
 <br/>
 
 ### 💻 Language Distribution
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=capkimkhanh2k5&layout=donut-vertical&theme=tokyonight&hide_border=true&title_color=7aa2f7&text_color=c0caf5&bg_color=1a1b26&langs_count=12" alt="Top Languages" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=capkimkhanh2k5&amp;layout=donut-vertical&amp;theme=tokyonight&amp;hide_border=true&amp;title_color=7aa2f7&amp;text_color=c0caf5&amp;bg_color=1a1b26&amp;langs_count=12" alt="Top Languages" width="40%" />
 </div>
 
 <br/>
 
 ### 📉 Contribution Graph
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=capkimkhanh2k5&theme=tokyo-night&bg_color=1a1b26&color=7aa2f7&line=bb9af7&point=7dcfff&hide_border=true&area=true&area_color=7aa2f7" alt="Contribution Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=capkimkhanh2k5&amp;theme=tokyo-night&amp;bg_color=1a1b26&amp;color=7aa2f7&amp;line=bb9af7&amp;point=7dcfff&amp;hide_border=true&amp;area=true&amp;area_color=7aa2f7" alt="Contribution Graph" width="100%" />
 </div>
 
 <br/>
@@ -427,7 +427,7 @@ I'm **Cáp Kim Khánh** — a 3rd-year **Software Engineering** student at **Da 
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=capkimkhanh2k5&style=for-the-badge&color=7aa2f7&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=capkimkhanh2k5&amp;style=for-the-badge&amp;color=7aa2f7&amp;label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
 
 ---
@@ -437,7 +437,7 @@ I'm **Cáp Kim Khánh** — a 3rd-year **Software Engineering** student at **Da 
 <!-- ========================================== -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,50:bb9af7,100:7dcfff&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:7aa2f7,50:bb9af7,100:7dcfff&amp;height=120&amp;section=footer" />
 </div>
 
 <div align="center">
