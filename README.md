@@ -375,14 +375,14 @@ I'm **Cáp Kim Khánh** — a 3rd-year **Software Engineering** student at **Da 
 
 ### 🏆 Profile Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=capkimkhanh2k5&amp;theme=tokyonight&amp;margin-w=15&amp;margin-h=15&amp;column=7&amp;no-frame=true&amp;no-bg=true" />
+  <img src="https://github-trophies.vercel.app/?username=capkimkhanh2k5&amp;theme=tokyonight&amp;margin-w=15&amp;margin-h=15&amp;column=7&amp;no-frame=true&amp;no-bg=true" />
 </div>
 
 <br/>
 
 ### 📈 Stats & Streak
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=capkimkhanh2k5&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;title_color=7aa2f7&amp;icon_color=7aa2f7&amp;text_color=c0caf5&amp;bg_color=1a1b26&amp;count_private=true&amp;include_all_commits=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=capkimkhanh2k5&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;title_color=7aa2f7&amp;icon_color=7aa2f7&amp;text_color=c0caf5&amp;bg_color=1a1b26&amp;count_private=true&amp;include_all_commits=true" alt="GitHub Stats" width="48%" />
   <img src="https://streak-stats.demolab.com/?user=capkimkhanh2k5&amp;theme=tokyonight&amp;hide_border=true&amp;ring=7aa2f7&amp;fire=bb9af7&amp;currStreakLabel=7aa2f7&amp;currStreakNum=c0caf5&amp;sideNums=c0caf5&amp;sideLabels=c0caf5&amp;background=1a1b26" alt="GitHub Streak" width="48%" />
 </div>
 
@@ -390,7 +390,7 @@ I'm **Cáp Kim Khánh** — a 3rd-year **Software Engineering** student at **Da 
 
 ### 💻 Language Distribution
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=capkimkhanh2k5&amp;layout=donut-vertical&amp;theme=tokyonight&amp;hide_border=true&amp;title_color=7aa2f7&amp;text_color=c0caf5&amp;bg_color=1a1b26&amp;langs_count=12" alt="Top Languages" width="40%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=capkimkhanh2k5&amp;layout=donut-vertical&amp;theme=tokyonight&amp;hide_border=true&amp;title_color=7aa2f7&amp;text_color=c0caf5&amp;bg_color=1a1b26&amp;langs_count=12" alt="Top Languages" width="40%" />
 </div>
 
 <br/>
