@@ -320,15 +320,15 @@ I'm **Cáp Kim Khánh** — a 3rd-year **Software Engineering** student at **Da 
 </td>
 <td width="50%" valign="top">
 
-### 📁 CONVERT_FILE — File Conversion System
-> File conversion system with Java EE
+### � SixDegreeOfSeparation — Graph Theory
+> Six Degrees of Separation algorithm using BFS/Graph traversal
 
 **Tech Stack:**
-- `JSP` · `Servlet` · `Java EE`
-- `MVC Architecture`
-- `Shell Scripting`
+- `C++` · `Python`
+- `Graph Theory` · `BFS Algorithm`
+- `Data Structures`
 
-[![Repo](https://img.shields.io/badge/GitHub-CONVERT__FILE-7aa2f7?style=flat-square&logo=github)](https://github.com/capkimkhanh2k5/CONVERT_FILE)
+[![Repo](https://img.shields.io/badge/GitHub-SixDegreeOfSeparation-7aa2f7?style=flat-square&logo=github)](https://github.com/capkimkhanh2k5/SixDegreeOfSeparation)
 
 </td>
 </tr>
@@ -357,7 +357,8 @@ I'm **Cáp Kim Khánh** — a 3rd-year **Software Engineering** student at **Da 
 - 🌐 **LTM** — Network Programming (Java Socket)
 - 🎛️ **ViDieuKhien** — Microcontrollers (C++)
 - 📐 **Math-Information-Tools** — Math Computing (C++, Python)
-- 🔊 **XLTHS** — Signal Processing (Python)
+- � **CONVERT_FILE** — File Conversion (JSP, Servlet, Java EE)
+- �🔊 **XLTHS** — Signal Processing (Python)
 
 </td>
 </tr>
