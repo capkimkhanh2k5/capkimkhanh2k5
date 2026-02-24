@@ -7,7 +7,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=700&amp;size=24&amp;duration=3000&amp;pause=1000&amp;color=7AA2F7&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;repeat=true&amp;width=750&amp;height=80&amp;lines=%F0%9F%8E%93+Software+Engineering+%40+DUT+%C4%90%C3%A0+N%E1%BA%B5ng;%E2%9C%94%EF%B8%8F+%3C%2F%3E+Spring+Boot+%7C+Django+%7C+Next.js+%7C+Flutter+%7C+IoT" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=700&amp;size=24&amp;duration=3000&amp;pause=1000&amp;color=7AA2F7&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;repeat=true&amp;width=750&amp;height=80&amp;lines=%F0%9F%8E%93+Software+Engineering+%40+DUT+%C4%90%C3%A0+N%E1%BA%B5ng;%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Spring+Boot+%7C+Django+%7C+Next.js+%7C+Flutter+%7C+IoT" alt="Typing SVG" />
   </a>
 </div>
 
