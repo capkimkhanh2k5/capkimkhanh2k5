@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=80&text=Cap%20Kim%20Khanh&fontSize=48&fontColor=000000" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=150&text=Cap%20Kim%20Khanh&fontSize=100&fontColor=000000" />
 
 **Software Developer · AI Engineer**
 
