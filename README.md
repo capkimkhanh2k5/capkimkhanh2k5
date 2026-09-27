@@ -91,10 +91,6 @@ Final-year Software Engineering student at **DUT — Da Nang University of Scien
 
 ## GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=capkimkhanh2k5&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=capkimkhanh2k5&layout=compact&hide_border=true&langs_count=8" alt="Top Languages" width="48%" />
-</div>
 
 <div align="center">
   <picture>
