@@ -4,9 +4,8 @@
       <img src="work.gif" width="185" alt="Coding" />
     </td>
     <td width="1000" align="center" valign="middle">
-      <font size="6"><b>Cap Kim Khanh</b></font>
-      <br/><br/>
-      <font size="4"><b>Software Engineer &middot; AI Engineer</b></font>
+      <h1><b>Cap Kim Khanh</b></h1>
+      <h3><b>Software Engineer &middot; AI Engineer</b></h3>
     </td>
   </tr>
 </table>
@@ -20,8 +19,6 @@
   <source media="(prefers-color-scheme: light)" srcset="languages-light.svg" />
   <img alt="Languages & Proficiency" src="languages-dark.svg" width="100%" />
 </picture>
-
-<br/><br/>
 
 <div align="center">
   <picture>
