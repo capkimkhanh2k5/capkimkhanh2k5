@@ -12,7 +12,7 @@
 
 | BE & FE | AI & Data | DevOps & Infra |
 | :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=django,fastapi,spring,react,nextjs,ts,python&theme=light" /> | <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,postgres,mongodb,redis,sqlite&theme=light" /> | <img src="https://skillicons.dev/icons?i=docker,gcp,firebase,nginx,githubactions,git,linux&theme=light" /> |
+| <img src="https://skillicons.dev/icons?i=django,fastapi,spring,react,nextjs,ts,python&theme=light" /> | <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,postgres,mongodb,redis,mysql&theme=light" /> | <img src="https://skillicons.dev/icons?i=docker,gcp,firebase,nginx,githubactions,git,linux&theme=light" /> |
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="languages-dark.svg" />
