@@ -1,49 +1,19 @@
 <table width="100%">
   <tr>
-    <td width="35%" align="center" valign="middle">
-      <img src="work.gif" alt="Coding" width="100%" />
+    <td width="220" align="center" valign="middle">
+      <img src="work.gif" width="185" alt="Coding" />
     </td>
-    <td width="65%" align="center" valign="middle">
-      <h1><b>Cap Kim Khanh</b></h1>
-      <p>Software Engineer &middot; AI Engineer</p>
+    <td width="1000" align="center" valign="middle">
+      <font size="6"><b>Cap Kim Khanh</b></font>
+      <br/><br/>
+      <font size="4"><b>Software Engineer &middot; AI Engineer</b></font>
     </td>
   </tr>
 </table>
 
-<table width="100%">
-  <thead>
-    <tr>
-      <th width="34%" align="left">&nbsp;BE & FE</th>
-      <th width="33%" align="left">&nbsp;AI & Data</th>
-      <th width="33%" align="left">&nbsp;DevOps & Infra</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="left">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=django,fastapi,spring,react,nextjs,ts,python&theme=dark" />
-          <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=django,fastapi,spring,react,nextjs,ts,python&theme=light" />
-          <img src="https://skillicons.dev/icons?i=django,fastapi,spring,react,nextjs,ts,python&theme=light" alt="BE & FE Skills" />
-        </picture>
-      </td>
-      <td align="left">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=pytorch,tensorflow,postgres,mongodb,redis&theme=dark" />
-          <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=pytorch,tensorflow,postgres,mongodb,redis&theme=light" />
-          <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,postgres,mongodb,redis&theme=light" alt="AI & Data Skills" />
-        </picture>
-      </td>
-      <td align="left">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker,gcp,firebase,nginx,githubactions,git,linux&theme=dark" />
-          <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=docker,gcp,firebase,nginx,githubactions,git,linux&theme=light" />
-          <img src="https://skillicons.dev/icons?i=docker,gcp,firebase,nginx,githubactions,git,linux&theme=light" alt="DevOps & Infra Skills" />
-        </picture>
-      </td>
-    </tr>
-  </tbody>
-</table>
+| BE & FE | AI & Data | DevOps & Infra |
+| :--- | :--- | :--- |
+| <img src="https://skillicons.dev/icons?i=django,fastapi,spring,react,nextjs,ts,python&theme=light" /> | <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,postgres,mongodb,redis,sqlite&theme=light" /> | <img src="https://skillicons.dev/icons?i=docker,gcp,firebase,nginx,githubactions,git,linux&theme=light" /> |
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="languages-dark.svg" />
