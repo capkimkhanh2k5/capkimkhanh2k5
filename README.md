@@ -18,32 +18,32 @@
 
 <a href="https://github.com/capkimkhanh2k5?tab=repositories">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="header-projects-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="header-projects-light.svg" />
-    <img src="header-projects-dark.svg" width="100%" alt="Featured Projects" />
+    <source media="(prefers-color-scheme: dark)" srcset="svg/header/header-projects-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="svg/header/header-projects-light.svg" />
+    <img src="svg/header/header-projects-dark.svg" width="100%" alt="Featured Projects" />
   </picture>
 </a>
 
 <div align="center">
   <a href="https://github.com/capkimkhanh2k5/Logistics_ERPNext_RAG">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="card-logistics-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="card-logistics-light.svg" />
-      <img src="card-logistics-dark.svg" width="32.5%" alt="Logistics ERPNext RAG" />
+      <source media="(prefers-color-scheme: dark)" srcset="svg/projects/logistics/card-logistics-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="svg/projects/logistics/card-logistics-light.svg" />
+      <img src="svg/projects/logistics/card-logistics-dark.svg" width="32.5%" alt="Logistics ERPNext RAG" />
     </picture>
   </a>
   <a href="https://github.com/capkimkhanh2k5/JOBIO">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="card-jobio-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="card-jobio-light.svg" />
-      <img src="card-jobio-dark.svg" width="32.5%" alt="JOBIO" />
+      <source media="(prefers-color-scheme: dark)" srcset="svg/projects/jobio/card-jobio-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="svg/projects/jobio/card-jobio-light.svg" />
+      <img src="svg/projects/jobio/card-jobio-dark.svg" width="32.5%" alt="JOBIO" />
     </picture>
   </a>
   <a href="https://github.com/capkimkhanh2k5/RagDraftingAI">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="card-ragdrafting-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="card-ragdrafting-light.svg" />
-      <img src="card-ragdrafting-dark.svg" width="32.5%" alt="RagDraftingAI" />
+      <source media="(prefers-color-scheme: dark)" srcset="svg/projects/ragdrafting/card-ragdrafting-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="svg/projects/ragdrafting/card-ragdrafting-light.svg" />
+      <img src="svg/projects/ragdrafting/card-ragdrafting-dark.svg" width="32.5%" alt="RagDraftingAI" />
     </picture>
   </a>
 </div>
@@ -51,16 +51,16 @@
 <div align="center">
   <a href="https://github.com/capkimkhanh2k5/PBL6_HTTT">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="card-danasea-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="card-danasea-light.svg" />
-      <img src="card-danasea-dark.svg" width="32.5%" alt="DANASEA PBL6" />
+      <source media="(prefers-color-scheme: dark)" srcset="svg/projects/danasea/card-danasea-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="svg/projects/danasea/card-danasea-light.svg" />
+      <img src="svg/projects/danasea/card-danasea-dark.svg" width="32.5%" alt="DANASEA PBL6" />
     </picture>
   </a>
   <a href="https://github.com/capkimkhanh2k5/Lap3T">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="card-lap3t-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="card-lap3t-light.svg" />
-      <img src="card-lap3t-dark.svg" width="32.5%" alt="Lap3T" />
+      <source media="(prefers-color-scheme: dark)" srcset="svg/projects/lap3t/card-lap3t-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="svg/projects/lap3t/card-lap3t-light.svg" />
+      <img src="svg/projects/lap3t/card-lap3t-dark.svg" width="32.5%" alt="Lap3T" />
     </picture>
   </a>
 </div>
@@ -68,9 +68,9 @@
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="languages-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="languages-light.svg" />
-  <img alt="Languages & Proficiency" src="languages-dark.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="svg/languages/languages-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="svg/languages/languages-light.svg" />
+  <img alt="Languages &amp; Proficiency" src="svg/languages/languages-dark.svg" width="100%" />
 </picture>
 
 <div align="center">
