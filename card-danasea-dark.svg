@@ -10,30 +10,36 @@
 
   <rect width="348" height="173" x="1" y="1" class="card" />
 
-  <!-- HEADER -->
-  <g transform="translate(20, 20)">
-    <text x="0" y="15" font-size="17">🌊</text>
-    <text x="28" y="14" class="title">DANASEA · PBL6</text>
+  <!-- HEADER: SINGLE COLOR VECTOR ICON + TITLE + LINK -->
+  <g transform="translate(20, 18)">
+    <!-- Single Color Icon -->
+    <g transform="translate(0, 0)">
+      <circle cx="12" cy="12" r="10" fill="none" stroke="#22d3ee" stroke-width="1.8"/>
+    <polygon points="16.24 7.76 14.12 14.12 7.76 16.24 9.88 9.88 16.24 7.76" fill="#22d3ee" fill-opacity="0.35" stroke="#22d3ee" stroke-width="1.2"/>
+    </g>
     
-    <!-- Link Icon -->
-    <g transform="translate(295, 0)" stroke="#8b949e" stroke-width="1.7" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <!-- Title -->
+    <text x="32" y="16" class="title">DANASEA · PBL6</text>
+    
+    <!-- External Link Icon -->
+    <g transform="translate(295, 2)" stroke="#8b949e" stroke-width="1.7" fill="none" stroke-linecap="round" stroke-linejoin="round">
       <path d="M4 1h6v6M1 9L10 1M10 5v5a1 1 0 01-1 1H2a1 1 0 01-1-1V2a1 1 0 011-1h4" />
     </g>
   </g>
 
-  <!-- DESCRIPTION (ENGLISH) -->
+  <!-- DESCRIPTION (ENGLISH & ESCAPED) -->
   <text x="20" y="66" class="desc">A marine tourism booking platform in Da Nang</text>
-  <text x="20" y="85" class="desc">featuring Clean Architecture & AI Agent integration.</text>
+  <text x="20" y="85" class="desc">featuring Clean Architecture &amp; AI Agent integration.</text>
 
   <!-- TECH STACK PILLS -->
-    <rect x="20" y="108" width="48" height="22" rx="11" fill="#c2410c" />
-    <text x="44.0" y="123" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="11" font-weight="600" fill="#ffedd5">Java</text>
-    <rect x="76" y="108" width="95" height="22" rx="11" fill="#15803d" />
-    <text x="123.5" y="123" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="11" font-weight="600" fill="#dcfce7">Spring Boot</text>
-    <rect x="179" y="108" width="53" height="22" rx="11" fill="#0284c7" />
-    <text x="205.5" y="123" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="11" font-weight="600" fill="#e0f2fe">React</text>
-    <rect x="240" y="108" width="53" height="22" rx="11" fill="#0369a1" />
-    <text x="266.5" y="123" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="11" font-weight="600" fill="#e0f2fe">MySQL</text>
+    <rect x="20" y="108" width="46" height="22" rx="11" fill="#4a2508" />
+    <text x="43.0" y="123" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="11" font-weight="600" fill="#ffaa66">Java</text>
+    <rect x="74" y="108" width="95" height="22" rx="11" fill="#09401f" />
+    <text x="121.5" y="123" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="11" font-weight="600" fill="#7ee787">Spring Boot</text>
+    <rect x="177" y="108" width="53" height="22" rx="11" fill="#0c3d5e" />
+    <text x="203.5" y="123" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="11" font-weight="600" fill="#a5d6ff">React</text>
+    <rect x="238" y="108" width="53" height="22" rx="11" fill="#0b3252" />
+    <text x="264.5" y="123" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="11" font-weight="600" fill="#79c0ff">MySQL</text>
 
   <!-- METRICS FOOTER -->
   <g transform="translate(20, 146)">
