@@ -16,16 +16,13 @@
 | :---: | :---: | :---: |
 | <img src="https://skillicons.dev/icons?i=django,fastapi,spring,react,nextjs,ts,python&theme=light" /> | <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,postgres,mongodb,redis,mysql&theme=light" /> | <img src="https://skillicons.dev/icons?i=docker,gcp,firebase,nginx,githubactions,git,linux&theme=light" /> |
 
-<table width="100%">
-  <tr>
-    <td align="left">
-      <h3>Featured Projects</h3>
-    </td>
-    <td align="right">
-      <a href="https://github.com/capkimkhanh2k5?tab=repositories"><b>View all repositories &rarr;</b></a>
-    </td>
-  </tr>
-</table>
+<a href="https://github.com/capkimkhanh2k5?tab=repositories">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="header-projects-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="header-projects-light.svg" />
+    <img src="header-projects-dark.svg" width="100%" alt="Featured Projects" />
+  </picture>
+</a>
 
 <div align="center">
   <a href="https://github.com/capkimkhanh2k5/Logistics_ERPNext_RAG">
