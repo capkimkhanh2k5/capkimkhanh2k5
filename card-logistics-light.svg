@@ -10,9 +10,9 @@
 
   <rect width="348" height="173" x="1" y="1" class="card" />
 
-  <!-- HEADER: SINGLE COLOR VECTOR ICON + TITLE + LINK -->
+  <!-- HEADER -->
   <g transform="translate(20, 18)">
-    <!-- Single Color Icon -->
+    <!-- Single Color Vector Icon -->
     <g transform="translate(0, 0)">
       <path d="M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z" fill="none" stroke="#0284c7" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
     <polyline points="3.27 6.96 12 12.01 20.73 6.96" fill="none" stroke="#0284c7" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
@@ -21,11 +21,13 @@
     
     <!-- Title -->
     <text x="32" y="16" class="title">Logistics ERPNext RAG</text>
-    
-    <!-- External Link Icon -->
-    <g transform="translate(295, 2)" stroke="#656d76" stroke-width="1.7" fill="none" stroke-linecap="round" stroke-linejoin="round">
-      <path d="M4 1h6v6M1 9L10 1M10 5v5a1 1 0 01-1 1H2a1 1 0 01-1-1V2a1 1 0 011-1h4" />
-    </g>
+  </g>
+
+  <!-- External Link Icon (Standard Feather / Lucide External Link) -->
+  <g transform="translate(308, 20) scale(0.65)" stroke="#656d76" stroke-width="2.2" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path>
+    <polyline points="15 3 21 3 21 9"></polyline>
+    <line x1="10" y1="14" x2="21" y2="3"></line>
   </g>
 
   <!-- DESCRIPTION (ENGLISH & ESCAPED) -->
