@@ -25,7 +25,7 @@
 </a>
 
 <div align="center">
-  <a href="https://github.com/capkimkhanh2k5/TRADERAG">
+  <a href="https://github.com/capkimkhanh2k5/TRADE_RAG">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="svg/projects/logistics/card-logistics-dark.svg" />
       <source media="(prefers-color-scheme: light)" srcset="svg/projects/logistics/card-logistics-light.svg" />
