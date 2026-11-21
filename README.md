@@ -5,7 +5,7 @@
     </td>
     <td width="1000" align="center" valign="middle">
       <h1><b>Cap Kim Khanh</b></h1>
-      <h3><b>Software Engineer &middot; AI Engineer</b></h3>
+      <h3><b>Software &middot; AI Engineer</b></h3>
     </td>
   </tr>
 </table>
@@ -25,11 +25,11 @@
 </a>
 
 <div align="center">
-  <a href="https://github.com/capkimkhanh2k5/Logistics_ERPNext_RAG">
+  <a href="https://github.com/capkimkhanh2k5/TRADERAG">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="svg/projects/logistics/card-logistics-dark.svg" />
       <source media="(prefers-color-scheme: light)" srcset="svg/projects/logistics/card-logistics-light.svg" />
-      <img src="svg/projects/logistics/card-logistics-dark.svg" width="32.5%" alt="Logistics ERPNext RAG" />
+      <img src="svg/projects/logistics/card-logistics-dark.svg" width="32.5%" alt="TRADE RAG" />
     </picture>
   </a>
   <a href="https://github.com/capkimkhanh2k5/JOBIO">
