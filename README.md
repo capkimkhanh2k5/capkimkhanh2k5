@@ -80,3 +80,9 @@
     <img alt="Snake animation" src="https://raw.githubusercontent.com/capkimkhanh2k5/capkimkhanh2k5/output/github-contribution-grid-snake-dark.svg" />
   </picture>
 </div>
+
+<br/>
+
+<div align="center">
+  <img src="coding.gif" width="260" alt="Coding setup" />
+</div>
