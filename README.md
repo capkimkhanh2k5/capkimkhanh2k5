@@ -24,46 +24,48 @@
   </picture>
 </a>
 
-<div align="center">
-  <a href="https://github.com/capkimkhanh2k5/TRADE_RAG">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="svg/projects/logistics/card-logistics-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="svg/projects/logistics/card-logistics-light.svg" />
-      <img src="svg/projects/logistics/card-logistics-dark.svg" width="32.5%" alt="TRADE RAG" />
-    </picture>
-  </a>
-  <a href="https://github.com/capkimkhanh2k5/JOBIO">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="svg/projects/jobio/card-jobio-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="svg/projects/jobio/card-jobio-light.svg" />
-      <img src="svg/projects/jobio/card-jobio-dark.svg" width="32.5%" alt="JOBIO" />
-    </picture>
-  </a>
-  <a href="https://github.com/capkimkhanh2k5/RagDraftingAI">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="svg/projects/ragdrafting/card-ragdrafting-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="svg/projects/ragdrafting/card-ragdrafting-light.svg" />
-      <img src="svg/projects/ragdrafting/card-ragdrafting-dark.svg" width="32.5%" alt="RagDraftingAI" />
-    </picture>
-  </a>
-</div>
-<br/>
-<div align="center">
-  <a href="https://github.com/capkimkhanh2k5/PBL6_HTTT">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="svg/projects/danasea/card-danasea-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="svg/projects/danasea/card-danasea-light.svg" />
-      <img src="svg/projects/danasea/card-danasea-dark.svg" width="32.5%" alt="DANASEA PBL6" />
-    </picture>
-  </a>
-  <a href="https://github.com/capkimkhanh2k5/Lap3T">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="svg/projects/lap3t/card-lap3t-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="svg/projects/lap3t/card-lap3t-light.svg" />
-      <img src="svg/projects/lap3t/card-lap3t-dark.svg" width="32.5%" alt="Lap3T" />
-    </picture>
-  </a>
-</div>
+<table width="100%">
+  <tr>
+    <td width="62%" align="center" valign="middle">
+      <div align="center">
+        <a href="https://github.com/capkimkhanh2k5/TRADE_RAG">
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="svg/projects/logistics/card-logistics-dark.svg" />
+            <source media="(prefers-color-scheme: light)" srcset="svg/projects/logistics/card-logistics-light.svg" />
+            <img src="svg/projects/logistics/card-logistics-dark.svg" width="48.5%" alt="TRADE RAG" />
+          </picture>
+        </a>
+        <a href="https://github.com/capkimkhanh2k5/RagDraftingAI">
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="svg/projects/ragdrafting/card-ragdrafting-dark.svg" />
+            <source media="(prefers-color-scheme: light)" srcset="svg/projects/ragdrafting/card-ragdrafting-light.svg" />
+            <img src="svg/projects/ragdrafting/card-ragdrafting-dark.svg" width="48.5%" alt="RagDraftingAI" />
+          </picture>
+        </a>
+      </div>
+      <br/>
+      <div align="center">
+        <a href="https://github.com/capkimkhanh2k5/JOBIO">
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="svg/projects/jobio/card-jobio-dark.svg" />
+            <source media="(prefers-color-scheme: light)" srcset="svg/projects/jobio/card-jobio-light.svg" />
+            <img src="svg/projects/jobio/card-jobio-dark.svg" width="48.5%" alt="JOBIO" />
+          </picture>
+        </a>
+        <a href="https://github.com/capkimkhanh2k5/PBL6_HTTT">
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="svg/projects/danasea/card-danasea-dark.svg" />
+            <source media="(prefers-color-scheme: light)" srcset="svg/projects/danasea/card-danasea-light.svg" />
+            <img src="svg/projects/danasea/card-danasea-dark.svg" width="48.5%" alt="DANASEA PBL6" />
+          </picture>
+        </a>
+      </div>
+    </td>
+    <td width="38%" align="center" valign="middle">
+      <img src="coding.gif" width="320" alt="Coding setup" />
+    </td>
+  </tr>
+</table>
 
 <br/>
 
@@ -79,10 +81,4 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/capkimkhanh2k5/capkimkhanh2k5/output/github-contribution-grid-snake.svg" />
     <img alt="Snake animation" src="https://raw.githubusercontent.com/capkimkhanh2k5/capkimkhanh2k5/output/github-contribution-grid-snake-dark.svg" />
   </picture>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="coding.gif" width="260" alt="Coding setup" />
 </div>
